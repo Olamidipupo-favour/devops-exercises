@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import pulumi
 import pulumi_awsx as awsx
 
